@@ -1,0 +1,43 @@
+body
+{
+background-color: #37474f;
+}
+
+h1
+{
+font-family: helvetica;
+text-align: center;
+font-size: 4em;
+color: #fff;
+}
+
+label {
+  display: block;
+  margin: .5em 0 0 0;
+  color: #fff;
+  font-family: helvetica;
+  font-size: 2em;
+
+}
+
+.btn {
+  display: block;
+  margin: 1em 0;
+  border-radius: 5px;
+  background-color: #FF7F55;
+}
+
+input 
+{
+font-size: 2em;
+border-radius: 5px;
+
+}
+
+legend
+{
+color: #fff;
+  font-family: helvetica;
+  font-size: 2em;
+
+}

@@ -1,0 +1,268 @@
+<table class="table table-bordered table-condensed" id="carga-excel" border="1">
+<thead>
+<tr class="info">
+<th>IT</th>
+<th>CÓDIGO</th>
+<th>DESCRIPCIÓN</th>
+<th>UND</th>
+<th>CANT. SOL.</th>
+<th>CANT. RESV.</th>
+<th>CANT. DISP.</th>
+<th><i class="glyphicon glyphicon-eye-open"></i></th>
+</tr>
+</thead>
+<tbody>
+<tr class="active">
+<td style="mso-number-format:'0';">15                </td>
+<td style="mso-number-format:'@';">140117061-002            </td>
+<td style="mso-number-format:'@';">MANUBRIO VALVULA SELECTORA   </td>
+<td style="mso-number-format:'@';">PC </td>
+<td style="mso-number-format:'0.00';">2.000000                </td>
+<td style="mso-number-format:'0.00';">0.000000                </td>
+<td style="mso-number-format:'0.00';">0.000000              </td>
+<td>
+<i class="glyphicon glyphicon-remove-circle text-danger"></i>
+
+</td>
+</tr>
+
+<tr class="active">
+<td style="mso-number-format:'0';">22                </td>
+<td style="mso-number-format:'@';">140123061-007            </td>
+<td style="mso-number-format:'@';">PLACA DE DESGASTE   </td>
+<td style="mso-number-format:'@';">PC </td>
+<td style="mso-number-format:'0.00';">1.000000                </td>
+<td style="mso-number-format:'0.00';">0.000000                </td>
+<td style="mso-number-format:'0.00';">0.000000              </td>
+<td>
+<i class="glyphicon glyphicon-remove-circle text-danger"></i>
+
+</td>
+</tr>
+
+<tr class="active">
+<td style="mso-number-format:'0';">48                </td>
+<td style="mso-number-format:'@';">140130065-001            </td>
+<td style="mso-number-format:'@';">ACTUADOR DE MOVIMIENTO LATERAL XRD30USS   </td>
+<td style="mso-number-format:'@';">ASS </td>
+<td style="mso-number-format:'0.00';">1.000000                </td>
+<td style="mso-number-format:'0.00';">1.000000                </td>
+<td style="mso-number-format:'0.00';">0.000000              </td>
+<td>
+<i class="glyphicon glyphicon-remove-circle text-danger"></i>
+
+</td>
+</tr>
+
+<tr class="active">
+<td style="mso-number-format:'0';">71                </td>
+<td style="mso-number-format:'@';">140137061-001            </td>
+<td style="mso-number-format:'@';">BRIDA CAMPANA UNID. BOMBEO XRD30   </td>
+<td style="mso-number-format:'@';">PC </td>
+<td style="mso-number-format:'0.00';">1.000000                </td>
+<td style="mso-number-format:'0.00';">0.000000                </td>
+<td style="mso-number-format:'0.00';">0.000000              </td>
+<td>
+<i class="glyphicon glyphicon-remove-circle text-danger"></i>
+
+</td>
+</tr>
+
+<tr class="active">
+<td style="mso-number-format:'0';">73                </td>
+<td style="mso-number-format:'@';">140260151-001            </td>
+<td style="mso-number-format:'@';">CHAVETA 1/8" X 1/8" X 1"   </td>
+<td style="mso-number-format:'@';">PC </td>
+<td style="mso-number-format:'0.00';">1.000000                </td>
+<td style="mso-number-format:'0.00';">0.000000                </td>
+<td style="mso-number-format:'0.00';">0.000000              </td>
+<td>
+<i class="glyphicon glyphicon-remove-circle text-danger"></i>
+
+</td>
+</tr>
+
+<tr class="active">
+<td style="mso-number-format:'0';">76                </td>
+<td style="mso-number-format:'@';">140455155-003            </td>
+<td style="mso-number-format:'@';">HELICE DE MIXER DE TRES ALABES   </td>
+<td style="mso-number-format:'@';">ASS </td>
+<td style="mso-number-format:'0.00';">1.000000                </td>
+<td style="mso-number-format:'0.00';">1.000000                </td>
+<td style="mso-number-format:'0.00';">2.000000              </td>
+<td>
+<i class="glyphicon glyphicon-ok-circle text-primary"></i>
+
+</td>
+</tr>
+
+<tr class="active">
+<td style="mso-number-format:'0';">78                </td>
+<td style="mso-number-format:'@';">140614161-002            </td>
+<td style="mso-number-format:'@';">BOCAMAZA DE RUEDA XRD80   </td>
+<td style="mso-number-format:'@';">PC </td>
+<td style="mso-number-format:'0.00';">2.000000                </td>
+<td style="mso-number-format:'0.00';">0.000000                </td>
+<td style="mso-number-format:'0.00';">0.000000              </td>
+<td>
+<i class="glyphicon glyphicon-remove-circle text-danger"></i>
+
+</td>
+</tr>
+
+<tr class="active">
+<td style="mso-number-format:'0';">79                </td>
+<td style="mso-number-format:'@';">140614161-003            </td>
+<td style="mso-number-format:'@';">TAPA DEL EJE BOCAMAZA   </td>
+<td style="mso-number-format:'@';">PC </td>
+<td style="mso-number-format:'0.00';">2.000000                </td>
+<td style="mso-number-format:'0.00';">0.000000                </td>
+<td style="mso-number-format:'0.00';">0.000000              </td>
+<td>
+<i class="glyphicon glyphicon-remove-circle text-danger"></i>
+
+</td>
+</tr>
+
+<tr class="active">
+<td style="mso-number-format:'0';">80                </td>
+<td style="mso-number-format:'@';">140617161-001            </td>
+<td style="mso-number-format:'@';">TAPON DE AJUSTE M10 X 1   </td>
+<td style="mso-number-format:'@';">PC </td>
+<td style="mso-number-format:'0.00';">2.000000                </td>
+<td style="mso-number-format:'0.00';">0.000000                </td>
+<td style="mso-number-format:'0.00';">0.000000              </td>
+<td>
+<i class="glyphicon glyphicon-remove-circle text-danger"></i>
+
+</td>
+</tr>
+
+<tr class="active">
+<td style="mso-number-format:'0';">81                </td>
+<td style="mso-number-format:'@';">140617161-003            </td>
+<td style="mso-number-format:'@';">TORNILLO DE AJUSTE   </td>
+<td style="mso-number-format:'@';">PC </td>
+<td style="mso-number-format:'0.00';">2.000000                </td>
+<td style="mso-number-format:'0.00';">2.000000                </td>
+<td style="mso-number-format:'0.00';">5.000000              </td>
+<td>
+<i class="glyphicon glyphicon-ok-circle text-primary"></i>
+
+</td>
+</tr>
+
+<tr class="active">
+<td style="mso-number-format:'0';">82                </td>
+<td style="mso-number-format:'@';">140617161-007            </td>
+<td style="mso-number-format:'@';">PERILLA   </td>
+<td style="mso-number-format:'@';">PC </td>
+<td style="mso-number-format:'0.00';">2.000000                </td>
+<td style="mso-number-format:'0.00';">0.000000                </td>
+<td style="mso-number-format:'0.00';">0.000000              </td>
+<td>
+<i class="glyphicon glyphicon-remove-circle text-danger"></i>
+
+</td>
+</tr>
+
+<tr class="active">
+<td style="mso-number-format:'0';">83                </td>
+<td style="mso-number-format:'@';">140619161-001            </td>
+<td style="mso-number-format:'@';">SUJECION   </td>
+<td style="mso-number-format:'@';">PC </td>
+<td style="mso-number-format:'0.00';">2.000000                </td>
+<td style="mso-number-format:'0.00';">0.000000                </td>
+<td style="mso-number-format:'0.00';">0.000000              </td>
+<td>
+<i class="glyphicon glyphicon-remove-circle text-danger"></i>
+
+</td>
+</tr>
+
+<tr class="active">
+<td style="mso-number-format:'0';">84                </td>
+<td style="mso-number-format:'@';">140619161-004            </td>
+<td style="mso-number-format:'@';">TORNILLO DE REGULACION   </td>
+<td style="mso-number-format:'@';">PC </td>
+<td style="mso-number-format:'0.00';">2.000000                </td>
+<td style="mso-number-format:'0.00';">1.000000                </td>
+<td style="mso-number-format:'0.00';">0.000000              </td>
+<td>
+<i class="glyphicon glyphicon-remove-circle text-danger"></i>
+
+</td>
+</tr>
+
+<tr class="active">
+<td style="mso-number-format:'0';">85                </td>
+<td style="mso-number-format:'@';">140619161-005            </td>
+<td style="mso-number-format:'@';">MANIJA   </td>
+<td style="mso-number-format:'@';">PC </td>
+<td style="mso-number-format:'0.00';">2.000000                </td>
+<td style="mso-number-format:'0.00';">2.000000                </td>
+<td style="mso-number-format:'0.00';">0.000000              </td>
+<td>
+<i class="glyphicon glyphicon-remove-circle text-danger"></i>
+
+</td>
+</tr>
+
+<tr class="active">
+<td style="mso-number-format:'0';">86                </td>
+<td style="mso-number-format:'@';">140619163-001            </td>
+<td style="mso-number-format:'@';">ESPACIADOR DE VALVULA   </td>
+<td style="mso-number-format:'@';">PC </td>
+<td style="mso-number-format:'0.00';">1.000000                </td>
+<td style="mso-number-format:'0.00';">1.000000                </td>
+<td style="mso-number-format:'0.00';">2.000000              </td>
+<td>
+<i class="glyphicon glyphicon-ok-circle text-primary"></i>
+
+</td>
+</tr>
+
+<tr class="active">
+<td style="mso-number-format:'0';">87                </td>
+<td style="mso-number-format:'@';">140639165-001            </td>
+<td style="mso-number-format:'@';">VALVULA DE ALIVIO (ESTACION DE BOMBEO)   </td>
+<td style="mso-number-format:'@';">ASS </td>
+<td style="mso-number-format:'0.00';">1.000000                </td>
+<td style="mso-number-format:'0.00';">1.000000                </td>
+<td style="mso-number-format:'0.00';">0.000000              </td>
+<td>
+<i class="glyphicon glyphicon-remove-circle text-danger"></i>
+
+</td>
+</tr>
+
+<tr class="active">
+<td style="mso-number-format:'0';">88                </td>
+<td style="mso-number-format:'@';">140691163-215            </td>
+<td style="mso-number-format:'@';">NIPLE M NPT 1/2"-14 X 11"   </td>
+<td style="mso-number-format:'@';">PC </td>
+<td style="mso-number-format:'0.00';">2.000000                </td>
+<td style="mso-number-format:'0.00';">0.000000                </td>
+<td style="mso-number-format:'0.00';">0.000000              </td>
+<td>
+<i class="glyphicon glyphicon-remove-circle text-danger"></i>
+
+</td>
+</tr>
+
+<tr class="active">
+<td style="mso-number-format:'0';">89                </td>
+<td style="mso-number-format:'@';">140691163-216            </td>
+<td style="mso-number-format:'@';">NIPLE M NPT 3/4"-14 X 11"   </td>
+<td style="mso-number-format:'@';">PC </td>
+<td style="mso-number-format:'0.00';">1.000000                </td>
+<td style="mso-number-format:'0.00';">0.000000                </td>
+<td style="mso-number-format:'0.00';">0.000000              </td>
+<td>
+<i class="glyphicon glyphicon-remove-circle text-danger"></i>
+
+</td>
+</tr>
+
+</tbody><tbody>
+</tbody></table>
